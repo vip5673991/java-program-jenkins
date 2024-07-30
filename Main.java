@@ -9,5 +9,6 @@ public class Main {
         System.out.println("hello check for commits");
         System.out.println("hello 2");
         System.out.println("added one more file");
+        System.out.println("i am crazy, world");
 }
 }

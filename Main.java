@@ -11,5 +11,6 @@ public class Main {
         System.out.println("added one more file");
         System.out.println("i am crazy, world");
         System.out.println("i am crazy, world tva");
+        System.out.println("i am crazy, world tva 34");
 }
 }
